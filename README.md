@@ -5,7 +5,5 @@ MIT 팀의 Day of AI 툴킷 한국어 버전입니다.
 
 한국어 버전은 CT연구회에서 번역하고 보급합니다.
 
-한국어 버전 : DayofAI툴킷_최종.pdf
-
 
 원본 사이트 : https://dayofai.org/families/family-tools/
